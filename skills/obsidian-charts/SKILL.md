@@ -3,7 +3,7 @@ name: obsidian-charts-reference
 description: Create and configure Charts codeblocks in Obsidian notes.
 version: 0.1.0
 author: AlexRadch
-license: MIT
+license: AGPL-3.0
 platforms: [linux, macos, windows]
 metadata:
   hermes:
